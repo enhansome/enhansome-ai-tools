@@ -1,0 +1,663 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Text"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "privateGPT",
+          "description": "Ask questions to your documents without an internet connection, using the power of LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:36:47Z",
+            "owner": "zylon-ai",
+            "repo": "private-gpt",
+            "stars": 57433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quivr",
+          "description": "Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-09T12:55:23Z",
+            "owner": "QuivrHQ",
+            "repo": "quivr",
+            "stars": 39394
+          }
+        }
+      ],
+      "title": "Local search engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chatbot UI",
+          "description": "An open source ChatGPT UI. Source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-03T00:38:07Z",
+            "owner": "mckaywrigley",
+            "repo": "chatbot-ui",
+            "stars": 33340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGPT for Jupyter",
+          "description": "Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-09-28T17:12:31Z",
+            "owner": "TiesdeKok",
+            "repo": "chat-gpt-jupyter-extension",
+            "stars": 308
+          }
+        }
+      ],
+      "title": "ChatGPT extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gpt4all",
+          "description": "A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-27T20:05:19Z",
+            "owner": "nomic-ai",
+            "repo": "gpt4all",
+            "stars": 77412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langfuse",
+          "description": "Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. #opensource",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:02:07Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 32998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plandex",
+          "description": "Open source, terminal-based AI programming engine for complex tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-03T21:49:58Z",
+            "owner": "plandex-ai",
+            "repo": "plandex",
+            "stars": 15580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltAgent",
+          "description": "A TypeScript framework for building and running AI agents with tools, memory, and visibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:24:53Z",
+            "owner": "VoltAgent",
+            "repo": "voltagent",
+            "stars": 10346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agenta",
+          "description": "Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. #opensource",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:32:30Z",
+            "owner": "Agenta-AI",
+            "repo": "agenta",
+            "stars": 4463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToolHive",
+          "description": "Find the right MCP server for your task and deploy with one click.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:24:40Z",
+            "owner": "stacklok",
+            "repo": "toolhive",
+            "stars": 2008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notte",
+          "description": "Notte is the fastest, most reliable Browser Using Agents framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:56:43Z",
+            "owner": "nottelabs",
+            "repo": "notte",
+            "stars": 1990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Radar",
+          "description": "Open-source CLI security scanner for agentic workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-27T15:28:44Z",
+            "owner": "splx-ai",
+            "repo": "agentic-radar",
+            "stars": 1030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portia AI",
+          "description": "Open source framework for building agents that pre-express their planned actions, share their progress and can be interrupted by a human. #opensource",
+          "children": []
+        }
+      ],
+      "title": "Developer tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MetaGPT",
+          "description": "The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PR-Agent",
+          "description": "AI-powered tool for automated PR analysis, feedback, suggestions, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T05:31:09Z",
+            "owner": "The-PR-Agent",
+            "repo": "pr-agent",
+            "stars": 12510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manifest",
+          "description": "An alternative to Supabase for AI Code editors and Vibe Coding tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:17:18Z",
+            "owner": "mnfst",
+            "repo": "manifest",
+            "stars": 7432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhoDB",
+          "description": "SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:00:38Z",
+            "owner": "clidey",
+            "repo": "whodb",
+            "stars": 5005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TurboPilot",
+          "description": "A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-09-30T08:16:59Z",
+            "owner": "ravenscroftj",
+            "repo": "turbopilot",
+            "stars": 3782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT-Code UI",
+          "description": "An open-source implementation of OpenAI's ChatGPT Code interpreter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T12:34:34Z",
+            "owner": "ricklamers",
+            "repo": "gpt-code-ui",
+            "stars": 3537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gito",
+          "description": "AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:06:58Z",
+            "owner": "Nayjest",
+            "repo": "Gito",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataPup",
+          "description": "Database client with AI-powered query assistance to generate context based queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-09T18:14:31Z",
+            "owner": "DataPupOrg",
+            "repo": "DataPup",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MutahunterAI",
+          "description": "Accelerate developer productivity and code security with our open-source AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-17T15:46:03Z",
+            "owner": "codeintegrity-ai",
+            "repo": "mutahunter",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poorcoder",
+          "description": "Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-05-16T21:58:14Z",
+            "owner": "Strawberry-Computer",
+            "repo": "poorcoder",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Kernel Explorer",
+          "description": "Explore the Linux kernel source code with AI-generated summaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-20T22:41:25Z",
+            "owner": "mathiscode",
+            "repo": "ai-kernel-explorer",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Copilot",
+          "description": "GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.",
+          "children": []
+        }
+      ],
+      "title": "Code"
+    },
+    {
+      "description": "For a more complete list of AI Image tools visit: Best Image AI Tools or Awesome AI Image",
+      "items": [],
+      "title": "Image"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Animation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bark",
+          "description": "A transformer-based text-to-audio model. #opensource",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-19T07:45:36Z",
+            "owner": "suno-ai",
+            "repo": "bark",
+            "stars": 39237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TorToiSe",
+          "description": "A multi-voice text-to-speech system trained with an emphasis on quality. #opensource",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-19T18:59:13Z",
+            "owner": "neonbjb",
+            "repo": "tortoise-tts",
+            "stars": 14869
+          }
+        }
+      ],
+      "title": "Speech"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Petals",
+          "description": "BitTorrent style platform for running AI models in a distributed way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-07T11:54:28Z",
+            "owner": "bigscience-workshop",
+            "repo": "petals",
+            "stars": 10489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harbor",
+          "description": "run LLM backends, APIs, frontends, and services with one command",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T18:10:59Z",
+            "owner": "av",
+            "repo": "harbor",
+            "stars": 3165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teleprompter",
+          "description": "An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-20T06:08:26Z",
+            "owner": "danielgross",
+            "repo": "teleprompter",
+            "stars": 337
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prompt Engineering Guide",
+          "description": "Guide and resources for prompt engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-03-11T20:09:13Z",
+            "owner": "dair-ai",
+            "repo": "Prompt-Engineering-Guide",
+            "stars": 77450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Cookbook",
+          "description": "Examples and guides for using the OpenAI API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T22:24:52Z",
+            "owner": "openai",
+            "repo": "openai-cookbook",
+            "stars": 75220
+          }
+        }
+      ],
+      "title": "Learning resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learn AI free"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tensorflow",
+          "description": "all important notes to learn pytorch with all the examples in google colab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-10T16:21:25Z",
+            "owner": "pratham5368",
+            "repo": "Tecnologies-I-Learn",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coursera-deep-learning-specialization",
+          "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-28T01:15:17Z",
+            "owner": "pratham5368",
+            "repo": "coursera-deep-learning-specialization",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Deep Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome AI Coding Tools",
+          "description": "Curated list of AI-powered developer tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-25T10:30:08Z",
+            "owner": "ai-for-developers",
+            "repo": "awesome-ai-coding-tools",
+            "stars": 1996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Workflow Automation",
+          "description": "Curated List of Workflow Automation Apps And Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-28T14:45:31Z",
+            "owner": "dariubs",
+            "repo": "awesome-workflow-automation",
+            "stars": 1159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Top AI Directories",
+          "description": "An awesome list of best top AI directories to submit your ai tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-15T08:59:29Z",
+            "owner": "best-of-ai",
+            "repo": "ai-directories",
+            "stars": 863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Vibe Coding",
+          "description": "A hand-picked collection of tools and resources for Vibe Coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-19T08:07:05Z",
+            "owner": "ai-for-developers",
+            "repo": "awesome-vibe-coding",
+            "stars": 813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Best of AI",
+          "description": "Like Michelin Guide for AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T08:47:41Z",
+            "owner": "best-of-ai",
+            "repo": "best-of-ai",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Marketing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-27T07:26:41Z",
+            "owner": "marketingtoolslist",
+            "repo": "awesome-marketing",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AI Models",
+          "description": "A curated list of top AI models and LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-14T12:28:33Z",
+            "owner": "alternbits",
+            "repo": "awesome-ai-models",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AI Books",
+          "description": "Curated List of Top AI and ML Books",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-03T10:45:41Z",
+            "owner": "mahseema",
+            "repo": "aibooks",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:10.433Z",
+    "original_repository": "mahseema/awesome-ai-tools",
+    "original_repository_sha": "9d8b9d49fa26114fcc635a80ac1db1e950d3542a",
+    "enhanced_repository": "enhansome/enhansome-ai-tools",
+    "enhanced_repository_description": null,
+    "title": "Awesome AI Tools with stars"
+  }
+}
