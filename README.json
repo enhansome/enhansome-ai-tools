@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:14:55Z",
+            "last_commit": "2026-08-17T03:22:03Z",
             "owner": "zylon-ai",
             "repo": "private-gpt",
-            "stars": 57447
+            "stars": 57446
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2024-08-03T00:38:07Z",
             "owner": "mckaywrigley",
             "repo": "chatbot-ui",
-            "stars": 33336
+            "stars": 33338
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2025-05-27T20:05:19Z",
             "owner": "nomic-ai",
             "repo": "gpt4all",
-            "stars": 77414
+            "stars": 77405
           }
         },
         {
@@ -98,10 +98,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T20:33:58Z",
+            "last_commit": "2026-08-17T20:40:27Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 33194
+            "stars": 33262
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2025-10-03T21:49:58Z",
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15587
+            "stars": 15590
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-10T14:24:53Z",
             "owner": "VoltAgent",
             "repo": "voltagent",
-            "stars": 10369
+            "stars": 10370
           }
         },
         {
@@ -140,10 +140,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T18:05:43Z",
+            "last_commit": "2026-08-17T19:28:38Z",
             "owner": "Agenta-AI",
             "repo": "agenta",
-            "stars": 4481
+            "stars": 4487
           }
         },
         {
@@ -154,10 +154,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T17:15:38Z",
+            "last_commit": "2026-08-17T20:19:12Z",
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2017
+            "stars": 2022
           }
         },
         {
@@ -168,7 +168,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T10:27:50Z",
+            "last_commit": "2026-08-17T14:36:55Z",
             "owner": "nottelabs",
             "repo": "notte",
             "stars": 1993
@@ -211,7 +211,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69856
+            "stars": 69865
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-16T07:59:00Z",
             "owner": "The-PR-Agent",
             "repo": "pr-agent",
-            "stars": 12560
+            "stars": 12585
           }
         },
         {
@@ -236,10 +236,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T17:23:09Z",
+            "last_commit": "2026-08-17T18:07:13Z",
             "owner": "mnfst",
             "repo": "manifest",
-            "stars": 7447
+            "stars": 7452
           }
         },
         {
@@ -250,7 +250,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T03:34:05Z",
+            "last_commit": "2026-08-17T19:00:12Z",
             "owner": "clidey",
             "repo": "whodb",
             "stars": 5008
@@ -267,7 +267,7 @@
             "last_commit": "2023-09-30T08:16:59Z",
             "owner": "ravenscroftj",
             "repo": "turbopilot",
-            "stars": 3781
+            "stars": 3778
           }
         },
         {
@@ -392,7 +392,7 @@
             "last_commit": "2024-08-19T07:45:36Z",
             "owner": "suno-ai",
             "repo": "bark",
-            "stars": 39238
+            "stars": 39239
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2024-11-19T18:59:13Z",
             "owner": "neonbjb",
             "repo": "tortoise-tts",
-            "stars": 14866
+            "stars": 14865
           }
         }
       ],
@@ -426,7 +426,7 @@
             "last_commit": "2024-09-07T11:54:28Z",
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10494
+            "stars": 10497
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2026-08-16T12:40:33Z",
             "owner": "av",
             "repo": "harbor",
-            "stars": 3169
+            "stars": 3172
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2026-03-11T20:09:13Z",
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77504
+            "stars": 77528
           }
         },
         {
@@ -485,10 +485,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-16T14:58:04Z",
+            "last_commit": "2026-08-17T20:30:55Z",
             "owner": "openai",
             "repo": "openai-cookbook",
-            "stars": 75261
+            "stars": 75294
           }
         }
       ],
@@ -547,7 +547,7 @@
             "last_commit": "2026-04-25T10:30:08Z",
             "owner": "ai-for-developers",
             "repo": "awesome-ai-coding-tools",
-            "stars": 2007
+            "stars": 2009
           }
         },
         {
@@ -589,7 +589,7 @@
             "last_commit": "2026-08-13T09:17:26Z",
             "owner": "awesome-vibe-coding",
             "repo": "awesome-vibe-coding",
-            "stars": 814
+            "stars": 815
           }
         },
         {
@@ -617,7 +617,7 @@
             "last_commit": "2026-07-27T07:26:41Z",
             "owner": "marketingtoolslist",
             "repo": "awesome-marketing",
-            "stars": 435
+            "stars": 436
           }
         },
         {
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:43:19.935Z",
+    "last_updated": "2026-08-17T20:48:58.458Z",
     "original_repository": "mahseema/awesome-ai-tools",
     "original_repository_sha": "9d8b9d49fa26114fcc635a80ac1db1e950d3542a",
     "enhanced_repository": "enhansome/enhansome-ai-tools",
