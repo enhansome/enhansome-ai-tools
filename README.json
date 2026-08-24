@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MemFree",
+              "description": "Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 815403287,
+                "language": "TypeScript",
+                "last_commit": "2026-07-06T12:02:53Z",
+                "owner": "memfreeme",
+                "repo": "memfree",
+                "stars": 1507
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Search engines"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "privateGPT",
               "description": "Ask questions to your documents without an internet connection, using the power of LLMs.",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2026-08-21T13:16:05Z",
                 "owner": "zylon-ai",
                 "repo": "private-gpt",
-                "stars": 57458
+                "stars": 57460
               }
             },
             {
@@ -54,7 +76,7 @@
                 "last_commit": "2024-08-03T00:38:07Z",
                 "owner": "mckaywrigley",
                 "repo": "chatbot-ui",
-                "stars": 33339
+                "stars": 33341
               }
             },
             {
@@ -81,6 +103,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "fabric",
+              "description": "Apply AI to everyday challenges in the comfort of your terminal. Help’s to get better results with tried and tested library of prompt pattern’s.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 738733003,
+                "language": "Go",
+                "last_commit": "2026-08-09T20:55:42Z",
+                "owner": "danielmiessler",
+                "repo": "Fabric",
+                "stars": 43513
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Productivity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Galactica",
+              "description": "A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. Model API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566274965,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-05T01:22:06Z",
+                "owner": "paperswithcode",
+                "repo": "galai",
+                "stars": 2740
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Academia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "gpt4all",
               "description": "A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.",
               "children": [],
@@ -91,7 +157,7 @@
                 "last_commit": "2025-05-27T20:05:19Z",
                 "owner": "nomic-ai",
                 "repo": "gpt4all",
-                "stars": 77396
+                "stars": 77393
               }
             },
             {
@@ -103,10 +169,10 @@
                 "archived": false,
                 "id": 642497346,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:42:20Z",
+                "last_commit": "2026-08-24T13:40:08Z",
                 "owner": "langfuse",
                 "repo": "langfuse",
-                "stars": 33583
+                "stars": 33627
               }
             },
             {
@@ -121,7 +187,7 @@
                 "last_commit": "2025-10-03T21:49:58Z",
                 "owner": "plandex-ai",
                 "repo": "plandex",
-                "stars": 15593
+                "stars": 15594
               }
             },
             {
@@ -136,7 +202,7 @@
                 "last_commit": "2026-08-10T14:24:53Z",
                 "owner": "VoltAgent",
                 "repo": "voltagent",
-                "stars": 10404
+                "stars": 10407
               }
             },
             {
@@ -148,10 +214,10 @@
                 "archived": false,
                 "id": 632871628,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T20:42:15Z",
+                "last_commit": "2026-08-24T13:53:33Z",
                 "owner": "Agenta-AI",
                 "repo": "agenta",
-                "stars": 4521
+                "stars": 4524
               }
             },
             {
@@ -163,7 +229,7 @@
                 "archived": false,
                 "id": 947349598,
                 "language": "Go",
-                "last_commit": "2026-08-23T01:56:53Z",
+                "last_commit": "2026-08-24T09:41:04Z",
                 "owner": "stacklok",
                 "repo": "toolhive",
                 "stars": 2035
@@ -196,7 +262,7 @@
                 "last_commit": "2025-11-27T15:28:44Z",
                 "owner": "splx-ai",
                 "repo": "agentic-radar",
-                "stars": 1041
+                "stars": 1042
               }
             }
           ],
@@ -222,7 +288,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 69969
+            "stars": 69994
           }
         },
         {
@@ -234,10 +300,10 @@
             "archived": false,
             "id": 662766482,
             "language": "Python",
-            "last_commit": "2026-08-23T18:49:38Z",
+            "last_commit": "2026-08-24T13:31:09Z",
             "owner": "The-PR-Agent",
             "repo": "pr-agent",
-            "stars": 12672
+            "stars": 12687
           }
         },
         {
@@ -297,7 +363,7 @@
             "last_commit": "2024-03-20T12:34:34Z",
             "owner": "ricklamers",
             "repo": "gpt-code-ui",
-            "stars": 3537
+            "stars": 3535
           }
         },
         {
@@ -379,8 +445,80 @@
       "title": "Code"
     },
     {
+      "description": "For a more complete list of AI Image tools visit: Best Image AI Tools or Awesome AI Image",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DragGAN",
+              "description": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642323624,
+                "language": "Python",
+                "last_commit": "2024-05-18T17:51:40Z",
+                "owner": "XingangPan",
+                "repo": "DragGAN",
+                "stars": 35758
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hugging Face Diffusion Models Course",
+              "description": "Python materials for the online course on diffusion models by @huggingface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550752161,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-26T10:32:05Z",
+                "owner": "huggingface",
+                "repo": "diffusion-models-class",
+                "stars": 4356
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Stable Diffusion resources"
+        }
+      ],
+      "title": "Image"
+    },
+    {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TTS WebUI",
+              "description": "Open Source generative AI App for voice and music, supporting 15+ TTS models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 633546245,
+                "language": "TypeScript",
+                "last_commit": "2026-07-27T13:23:40Z",
+                "owner": "rsxdalv",
+                "repo": "TTS-WebUI",
+                "stars": 3243
+              }
+            }
+          ],
+          "description": "You can also find more comprehensive list on Awesome AI Music and There's an AI AI Voice Cloning list",
+          "node_type": "group",
+          "title": "AI Voice Cloning"
+        },
         {
           "children": [
             {
@@ -436,7 +574,7 @@
             "last_commit": "2024-09-07T11:54:28Z",
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10508
+            "stars": 10512
           }
         },
         {
@@ -451,7 +589,7 @@
             "last_commit": "2026-08-16T12:40:33Z",
             "owner": "av",
             "repo": "harbor",
-            "stars": 3186
+            "stars": 3188
           }
         },
         {
@@ -487,7 +625,7 @@
             "last_commit": "2026-03-11T20:09:13Z",
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77728
+            "stars": 77749
           }
         },
         {
@@ -499,10 +637,10 @@
             "archived": false,
             "id": 468576060,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-23T02:54:18Z",
+            "last_commit": "2026-08-24T08:40:51Z",
             "owner": "openai",
             "repo": "openai-cookbook",
-            "stars": 75501
+            "stars": 75518
           }
         }
       ],
@@ -511,6 +649,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Roadmap",
+              "description": "A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278289913,
+                "language": null,
+                "last_commit": "2022-12-08T22:38:52Z",
+                "owner": "mrdbourke",
+                "repo": "machine-learning-roadmap",
+                "stars": 7894
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Machine Learning"
+        },
         {
           "children": [
             {
@@ -566,7 +726,7 @@
             "last_commit": "2026-04-25T10:30:08Z",
             "owner": "ai-for-developers",
             "repo": "awesome-ai-coding-tools",
-            "stars": 2026
+            "stars": 2028
           }
         },
         {
@@ -581,7 +741,7 @@
             "last_commit": "2026-04-28T14:45:31Z",
             "owner": "dariubs",
             "repo": "awesome-workflow-automation",
-            "stars": 1176
+            "stars": 1177
           }
         },
         {
@@ -611,7 +771,7 @@
             "last_commit": "2026-08-13T09:17:26Z",
             "owner": "awesome-vibe-coding",
             "repo": "awesome-vibe-coding",
-            "stars": 820
+            "stars": 821
           }
         },
         {
@@ -623,7 +783,7 @@
             "archived": false,
             "id": 1037868089,
             "language": "HTML",
-            "last_commit": "2026-08-17T21:38:26Z",
+            "last_commit": "2026-08-24T05:50:10Z",
             "owner": "best-of-ai",
             "repo": "best-of-ai",
             "stars": 700
@@ -679,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:43:46.356Z",
+    "last_updated": "2026-08-24T13:54:20.850Z",
     "original_repository": "mahseema/awesome-ai-tools",
     "original_repository_id": 683212753,
     "original_repository_sha": "9d8b9d49fa26114fcc635a80ac1db1e950d3542a",
