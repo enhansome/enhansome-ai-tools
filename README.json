@@ -18,7 +18,8 @@
                 "owner": "memfreeme",
                 "repo": "memfree",
                 "stars": 1506
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": null,
@@ -36,11 +37,12 @@
                 "archived": false,
                 "id": 635240594,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:07:21Z",
+                "last_commit": "2026-08-27T14:32:51Z",
                 "owner": "zylon-ai",
                 "repo": "private-gpt",
-                "stars": 57474
-              }
+                "stars": 57480
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             },
             {
               "node_type": "item",
@@ -54,8 +56,9 @@
                 "last_commit": "2025-07-09T12:55:23Z",
                 "owner": "QuivrHQ",
                 "repo": "quivr",
-                "stars": 39426
-              }
+                "stars": 39427
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": null,
@@ -77,7 +80,8 @@
                 "owner": "mckaywrigley",
                 "repo": "chatbot-ui",
                 "stars": 33340
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             },
             {
               "node_type": "item",
@@ -92,7 +96,8 @@
                 "owner": "TiesdeKok",
                 "repo": "chat-gpt-jupyter-extension",
                 "stars": 309
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": null,
@@ -110,11 +115,12 @@
                 "archived": false,
                 "id": 738733003,
                 "language": "Go",
-                "last_commit": "2026-08-09T20:55:42Z",
+                "last_commit": "2026-08-28T02:55:47Z",
                 "owner": "danielmiessler",
                 "repo": "Fabric",
-                "stars": 43539
-              }
+                "stars": 43544
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": null,
@@ -136,7 +142,8 @@
                 "owner": "paperswithcode",
                 "repo": "galai",
                 "stars": 2741
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": null,
@@ -157,8 +164,9 @@
                 "last_commit": "2025-05-27T20:05:19Z",
                 "owner": "nomic-ai",
                 "repo": "gpt4all",
-                "stars": 77396
-              }
+                "stars": 77398
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             },
             {
               "node_type": "item",
@@ -169,11 +177,12 @@
                 "archived": false,
                 "id": 642497346,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:19:26Z",
+                "last_commit": "2026-08-27T22:45:11Z",
                 "owner": "langfuse",
                 "repo": "langfuse",
-                "stars": 33798
-              }
+                "stars": 33829
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             },
             {
               "node_type": "item",
@@ -188,7 +197,8 @@
                 "owner": "plandex-ai",
                 "repo": "plandex",
                 "stars": 15598
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             },
             {
               "node_type": "item",
@@ -199,11 +209,12 @@
                 "archived": false,
                 "id": 967530387,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T14:24:53Z",
+                "last_commit": "2026-08-27T15:42:31Z",
                 "owner": "VoltAgent",
                 "repo": "voltagent",
-                "stars": 10429
-              }
+                "stars": 10434
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             },
             {
               "node_type": "item",
@@ -214,11 +225,12 @@
                 "archived": false,
                 "id": 632871628,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:19:20Z",
+                "last_commit": "2026-08-28T00:21:11Z",
                 "owner": "Agenta-AI",
                 "repo": "agenta",
-                "stars": 4557
-              }
+                "stars": 4573
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             },
             {
               "node_type": "item",
@@ -229,11 +241,12 @@
                 "archived": false,
                 "id": 947349598,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:45:12Z",
+                "last_commit": "2026-08-27T22:35:22Z",
                 "owner": "stacklok",
                 "repo": "toolhive",
-                "stars": 2046
-              }
+                "stars": 2051
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             },
             {
               "node_type": "item",
@@ -244,11 +257,12 @@
                 "archived": false,
                 "id": 900152988,
                 "language": "Python",
-                "last_commit": "2026-08-26T12:54:06Z",
+                "last_commit": "2026-08-27T16:00:21Z",
                 "owner": "nottelabs",
                 "repo": "notte",
                 "stars": 1998
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             },
             {
               "node_type": "item",
@@ -263,7 +277,8 @@
                 "owner": "splx-ai",
                 "repo": "agentic-radar",
                 "stars": 1043
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": null,
@@ -288,8 +303,9 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70062
-          }
+            "stars": 70073
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -300,11 +316,12 @@
             "archived": false,
             "id": 662766482,
             "language": "Python",
-            "last_commit": "2026-08-26T18:36:12Z",
+            "last_commit": "2026-08-27T20:45:57Z",
             "owner": "The-PR-Agent",
             "repo": "pr-agent",
-            "stars": 12727
-          }
+            "stars": 12738
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -315,11 +332,12 @@
             "archived": false,
             "id": 542185751,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T22:53:42Z",
+            "last_commit": "2026-08-28T01:15:44Z",
             "owner": "mnfst",
             "repo": "manifest",
-            "stars": 7478
-          }
+            "stars": 7479
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -333,8 +351,9 @@
             "last_commit": "2026-08-27T05:05:07Z",
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5014
-          }
+            "stars": 5015
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -349,7 +368,8 @@
             "owner": "ravenscroftj",
             "repo": "turbopilot",
             "stars": 3779
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -364,7 +384,8 @@
             "owner": "ricklamers",
             "repo": "gpt-code-ui",
             "stars": 3536
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -379,7 +400,8 @@
             "owner": "Nayjest",
             "repo": "Gito",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -394,7 +416,8 @@
             "owner": "DataPupOrg",
             "repo": "DataPup",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -409,7 +432,8 @@
             "owner": "codeintegrity-ai",
             "repo": "mutahunter",
             "stars": 299
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -424,7 +448,8 @@
             "owner": "Strawberry-Computer",
             "repo": "poorcoder",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -439,7 +464,8 @@
             "owner": "mathiscode",
             "repo": "ai-kernel-explorer",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         }
       ],
       "title": "Code"
@@ -462,7 +488,8 @@
                 "owner": "XingangPan",
                 "repo": "DragGAN",
                 "stars": 35755
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": null,
@@ -483,8 +510,9 @@
                 "last_commit": "2026-05-26T10:32:05Z",
                 "owner": "huggingface",
                 "repo": "diffusion-models-class",
-                "stars": 4358
-              }
+                "stars": 4356
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": null,
@@ -511,8 +539,9 @@
                 "last_commit": "2026-07-27T13:23:40Z",
                 "owner": "rsxdalv",
                 "repo": "TTS-WebUI",
-                "stars": 3244
-              }
+                "stars": 3243
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": "You can also find more comprehensive list on Awesome AI Music and There's an AI AI Voice Cloning list",
@@ -533,8 +562,9 @@
                 "last_commit": "2024-08-19T07:45:36Z",
                 "owner": "suno-ai",
                 "repo": "bark",
-                "stars": 39250
-              }
+                "stars": 39253
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             },
             {
               "node_type": "item",
@@ -549,7 +579,8 @@
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
                 "stars": 14870
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": null,
@@ -574,8 +605,9 @@
             "last_commit": "2024-09-07T11:54:28Z",
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10522
-          }
+            "stars": 10525
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -589,8 +621,9 @@
             "last_commit": "2026-08-16T12:40:33Z",
             "owner": "av",
             "repo": "harbor",
-            "stars": 3192
-          }
+            "stars": 3197
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -605,7 +638,8 @@
             "owner": "danielgross",
             "repo": "teleprompter",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         }
       ],
       "title": "Other"
@@ -625,8 +659,9 @@
             "last_commit": "2026-03-11T20:09:13Z",
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77820
-          }
+            "stars": 77847
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -637,11 +672,12 @@
             "archived": false,
             "id": 468576060,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T23:24:07Z",
+            "last_commit": "2026-08-27T20:56:12Z",
             "owner": "openai",
             "repo": "openai-cookbook",
-            "stars": 75576
-          }
+            "stars": 75582
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         }
       ],
       "title": "Learning resources"
@@ -664,7 +700,8 @@
                 "owner": "mrdbourke",
                 "repo": "machine-learning-roadmap",
                 "stars": 7894
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": null,
@@ -686,7 +723,8 @@
                 "owner": "dean5368",
                 "repo": "Tecnologies-I-Learn",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             },
             {
               "node_type": "item",
@@ -701,7 +739,8 @@
                 "owner": "dean5368",
                 "repo": "coursera-deep-learning-specialization",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:49.388Z"
             }
           ],
           "description": null,
@@ -726,8 +765,9 @@
             "last_commit": "2026-04-25T10:30:08Z",
             "owner": "ai-for-developers",
             "repo": "awesome-ai-coding-tools",
-            "stars": 2038
-          }
+            "stars": 2040
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -741,8 +781,9 @@
             "last_commit": "2026-04-28T14:45:31Z",
             "owner": "dariubs",
             "repo": "awesome-workflow-automation",
-            "stars": 1180
-          }
+            "stars": 1181
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -757,7 +798,8 @@
             "owner": "best-of-ai",
             "repo": "ai-directories",
             "stars": 867
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -771,8 +813,9 @@
             "last_commit": "2026-08-13T09:17:26Z",
             "owner": "awesome-vibe-coding",
             "repo": "awesome-vibe-coding",
-            "stars": 823
-          }
+            "stars": 824
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -787,7 +830,8 @@
             "owner": "best-of-ai",
             "repo": "best-of-ai",
             "stars": 703
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -802,7 +846,8 @@
             "owner": "marketingtoolslist",
             "repo": "awesome-marketing",
             "stars": 442
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -817,7 +862,8 @@
             "owner": "alternbits",
             "repo": "awesome-ai-models",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         },
         {
           "node_type": "item",
@@ -832,14 +878,15 @@
             "owner": "mahseema",
             "repo": "aibooks",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T04:23:49.388Z"
         }
       ],
       "title": "Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:34.385Z",
+    "last_updated": "2026-08-28T04:23:49.388Z",
     "original_repository_info": {
       "archived": false,
       "id": 683212753,
@@ -847,7 +894,7 @@
       "last_commit": "2025-12-31T14:46:19Z",
       "owner": "mahseema",
       "repo": "awesome-ai-tools",
-      "stars": 6056
+      "stars": 6064
     },
     "original_repository_sha": "9d8b9d49fa26114fcc635a80ac1db1e950d3542a",
     "enhanced_repository": "enhansome/enhansome-ai-tools",
