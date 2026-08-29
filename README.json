@@ -12,12 +12,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MemFree - Hybrid AI Search Engine & AI Page Generator",
+                "homepage": "https://www.memfree.me?ref=github.com",
                 "id": 815403287,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-06T12:02:53Z",
+                "open_issues": 18,
                 "owner": "memfreeme",
                 "repo": "memfree",
-                "stars": 1506
+                "stars": 1506,
+                "topics": [
+                  "ai",
+                  "ai-search",
+                  "ai-search-engine",
+                  "devfast",
+                  "generate-ui",
+                  "hacktoberfest",
+                  "hacktoberfest-accepted",
+                  "hybrid-ai-search",
+                  "page-generator",
+                  "react",
+                  "search-engine",
+                  "serverless-vector",
+                  "shadcn-ui",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -35,12 +55,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.",
+                "homepage": "https://www.zylon.ai/private-gpt",
                 "id": 635240594,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:46:41Z",
+                "open_issues": 4,
                 "owner": "zylon-ai",
                 "repo": "private-gpt",
-                "stars": 57482
+                "stars": 57482,
+                "topics": [
+                  "ai",
+                  "ai-tools",
+                  "on-premise"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             },
@@ -51,12 +80,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+                "homepage": "https://core.quivr.com",
                 "id": 640079149,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-09T12:55:23Z",
+                "open_issues": 33,
                 "owner": "QuivrHQ",
                 "repo": "quivr",
-                "stars": 39430
+                "stars": 39432,
+                "topics": [
+                  "ai",
+                  "api",
+                  "chatbot",
+                  "chatgpt",
+                  "database",
+                  "docker",
+                  "framework",
+                  "frontend",
+                  "groq",
+                  "html",
+                  "javascript",
+                  "llm",
+                  "openai",
+                  "postgresql",
+                  "privacy",
+                  "rag",
+                  "react",
+                  "security",
+                  "typescript",
+                  "vector"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -74,12 +129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI chat for any model.",
+                "homepage": "https://JoinTakeoff.com",
                 "id": 612640604,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-08-03T00:38:07Z",
+                "open_issues": 240,
                 "owner": "mckaywrigley",
                 "repo": "chatbot-ui",
-                "stars": 33341
+                "stars": 33340,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             },
@@ -90,12 +150,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A browser extension to provide various AI helper functions in Jupyter Notebooks, powered by ChatGPT.",
+                "homepage": null,
                 "id": 581938177,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-28T17:12:31Z",
+                "open_issues": 0,
                 "owner": "TiesdeKok",
                 "repo": "chat-gpt-jupyter-extension",
-                "stars": 309
+                "stars": 309,
+                "topics": [
+                  "chatgpt",
+                  "chatgpt-chrome-extension",
+                  "copilot"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -113,12 +182,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+                "homepage": "https://danielmiessler.com/p/fabric-origin-story",
                 "id": 738733003,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:55:24Z",
+                "open_issues": 68,
                 "owner": "danielmiessler",
                 "repo": "Fabric",
-                "stars": 43545
+                "stars": 43546,
+                "topics": [
+                  "ai",
+                  "augmentation",
+                  "flourishing",
+                  "life",
+                  "work"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -136,12 +216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model API for GALACTICA",
+                "homepage": null,
                 "id": 566274965,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-05T01:22:06Z",
+                "open_issues": 31,
                 "owner": "paperswithcode",
                 "repo": "galai",
-                "stars": 2741
+                "stars": 2741,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -159,12 +244,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+                "homepage": "https://nomic.ai/gpt4all",
                 "id": 619959033,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-05-27T20:05:19Z",
+                "open_issues": 773,
                 "owner": "nomic-ai",
                 "repo": "gpt4all",
-                "stars": 77397
+                "stars": 77397,
+                "topics": [
+                  "ai-chat",
+                  "llm-inference"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             },
@@ -175,12 +268,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+                "homepage": "https://langfuse.com",
                 "id": 642497346,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T19:04:54Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:13:21Z",
+                "open_issues": 860,
                 "owner": "langfuse",
                 "repo": "langfuse",
-                "stars": 33870
+                "stars": 33872,
+                "topics": [
+                  "analytics",
+                  "autogen",
+                  "evaluation",
+                  "langchain",
+                  "large-language-models",
+                  "llama-index",
+                  "llm",
+                  "llm-evaluation",
+                  "llm-observability",
+                  "llmops",
+                  "monitoring",
+                  "observability",
+                  "open-source",
+                  "openai",
+                  "playground",
+                  "prompt-engineering",
+                  "prompt-management",
+                  "self-hosted",
+                  "ycombinator"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             },
@@ -191,12 +309,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+                "homepage": "https://plandex.ai",
                 "id": 709538270,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-10-03T21:49:58Z",
+                "open_issues": 62,
                 "owner": "plandex-ai",
                 "repo": "plandex",
-                "stars": 15597
+                "stars": 15597,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "ai-developer-tools",
+                  "ai-tools",
+                  "cli",
+                  "command-line",
+                  "developer-tools",
+                  "git",
+                  "golang",
+                  "gpt-4",
+                  "llm",
+                  "openai",
+                  "polyglot-programming",
+                  "terminal",
+                  "terminal-based",
+                  "terminal-ui"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             },
@@ -207,12 +347,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+                "homepage": "https://voltagent.dev",
                 "id": 967530387,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:42:31Z",
+                "open_issues": 80,
                 "owner": "VoltAgent",
                 "repo": "voltagent",
-                "stars": 10442
+                "stars": 10443,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "ai-agents-framework",
+                  "aiagentframework",
+                  "chatbots",
+                  "chatgpt",
+                  "framework",
+                  "javascript",
+                  "llm",
+                  "llm-observability",
+                  "mcp",
+                  "multiagent",
+                  "nodejs",
+                  "observability",
+                  "open-source",
+                  "openai",
+                  "rag",
+                  "tts",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             },
@@ -223,12 +389,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agenta is a workspace where you and your team build agents and automations.",
+                "homepage": "http://www.agenta.ai",
                 "id": 632871628,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:08:48Z",
+                "open_issues": 290,
                 "owner": "Agenta-AI",
                 "repo": "agenta",
-                "stars": 4627
+                "stars": 4627,
+                "topics": [
+                  "agent-builder",
+                  "agent-observability",
+                  "agent-orchestration",
+                  "agent-workspace",
+                  "agentic-ai",
+                  "ai-agent",
+                  "ai-agents",
+                  "ai-automation",
+                  "ai-coworker",
+                  "ai-skills-manager",
+                  "ai-workflow-builder",
+                  "harness",
+                  "mcp",
+                  "open-source",
+                  "self-hosted",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             },
@@ -239,12 +427,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
+                "homepage": "https://stacklok.com/download/",
                 "id": 947349598,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T02:50:43Z",
+                "open_issues": 376,
                 "owner": "stacklok",
                 "repo": "toolhive",
-                "stars": 2054
+                "stars": 2054,
+                "topics": [
+                  "ai",
+                  "ai-security",
+                  "aicodeassistant",
+                  "golang",
+                  "kubernetes",
+                  "mcp",
+                  "mcp-security",
+                  "mcp-servers",
+                  "mcp-tools",
+                  "model-context-protocol",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             },
@@ -255,12 +460,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Best cloud browser infrastructure and web automation platform for your AI (Coding) agents!",
+                "homepage": "https://www.notte.cc/",
                 "id": 900152988,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T23:09:36Z",
+                "open_issues": 9,
                 "owner": "nottelabs",
                 "repo": "notte",
-                "stars": 1999
+                "stars": 1999,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "anthropic",
+                  "automation",
+                  "browser",
+                  "llm",
+                  "openai",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             },
@@ -271,12 +490,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A security scanner for your LLM agentic workflows",
+                "homepage": "https://splx.ai",
                 "id": 931506474,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-27T15:28:44Z",
+                "open_issues": 15,
                 "owner": "splx-ai",
                 "repo": "agentic-radar",
-                "stars": 1043
+                "stars": 1043,
+                "topics": [
+                  "agentic-ai",
+                  "agentic-framework",
+                  "agentic-workflow",
+                  "ai",
+                  "ai-red-teaming",
+                  "ai-security",
+                  "cli",
+                  "devsecops",
+                  "generative-ai",
+                  "llm",
+                  "llm-security",
+                  "mcp",
+                  "mcp-server",
+                  "red-teaming",
+                  "security",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -298,12 +539,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "homepage": "https://atoms.dev/",
             "id": 660551251,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
+            "open_issues": 135,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70089
+            "stars": 70090,
+            "topics": [
+              "agent",
+              "gpt",
+              "llm",
+              "metagpt",
+              "multi-agent"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -314,12 +566,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+            "homepage": "https://www.pr-agent.ai",
             "id": 662766482,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:15:55Z",
+            "open_issues": 99,
             "owner": "The-PR-Agent",
             "repo": "pr-agent",
-            "stars": 12750
+            "stars": 12750,
+            "topics": [
+              "ai",
+              "anthropic",
+              "code-review",
+              "coding-assistant",
+              "devtools",
+              "ollama",
+              "openai",
+              "pull-request",
+              "pull-requests"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -330,12 +597,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect Your Agents And Harnesses With Any Provider 🦚",
+            "homepage": "https://manifest.build",
             "id": 542185751,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:09:40Z",
+            "open_issues": 115,
             "owner": "mnfst",
             "repo": "manifest",
-            "stars": 7483
+            "stars": 7483,
+            "topics": [
+              "ai",
+              "ai-",
+              "ai-sdk",
+              "anthropic",
+              "byok",
+              "cost-tracking",
+              "gateway",
+              "hermes-agent",
+              "llm-observability",
+              "llm-router",
+              "open-source",
+              "openai-api",
+              "openclaw",
+              "subscription",
+              "token-tracking"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -346,12 +634,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Where data access meets operational intelligence",
+            "homepage": "https://whodb.com",
             "id": 813564769,
             "language": "Go",
-            "last_commit": "2026-08-28T17:54:02Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:28:46Z",
+            "open_issues": 32,
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5017
+            "stars": 5017,
+            "topics": [
+              "ai-agent",
+              "data-catalog",
+              "data-governance",
+              "data-integration",
+              "data-lineage",
+              "data-pipeline",
+              "data-platform",
+              "database-management",
+              "er-diagram",
+              "internal-tools",
+              "mcp-server",
+              "model-context-protocol",
+              "mysql",
+              "oracle",
+              "postgresql",
+              "self-hosted",
+              "sql-editor",
+              "sqlserver",
+              "text-to-sql",
+              "visual-query-builder"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -362,12 +676,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
+            "homepage": null,
             "id": 625612711,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-09-30T08:16:59Z",
+            "open_issues": 18,
             "owner": "ravenscroftj",
             "repo": "turbopilot",
-            "stars": 3779
+            "stars": 3779,
+            "topics": [
+              "code-completion",
+              "cpp",
+              "language-model",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -378,12 +702,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source implementation of OpenAI's ChatGPT Code interpreter",
+            "homepage": null,
             "id": 639095114,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-20T12:34:34Z",
+            "open_issues": 10,
             "owner": "ricklamers",
             "repo": "gpt-code-ui",
-            "stars": 3536
+            "stars": 3536,
+            "topics": [
+              "chatgpt",
+              "gpt",
+              "llms",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -394,12 +728,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
+            "homepage": "http://gito.bot/",
             "id": 975457832,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:15:58Z",
+            "open_issues": 63,
             "owner": "Nayjest",
             "repo": "Gito",
-            "stars": 428
+            "stars": 428,
+            "topics": [
+              "ai",
+              "ai-code-analysis",
+              "ai-code-review",
+              "ai-code-reviewer",
+              "ai-coding",
+              "ai-coding-assistant",
+              "ai-coding-tools",
+              "code-analysis",
+              "code-audit",
+              "code-quality",
+              "code-review",
+              "codereview",
+              "developer-tools",
+              "github",
+              "github-actions",
+              "github-copilot",
+              "llm",
+              "python",
+              "software-engineering",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -410,12 +770,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern, AI-assisted, cross-platform database client - free",
+            "homepage": null,
             "id": 1014093587,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-09T18:14:31Z",
+            "open_issues": 20,
             "owner": "DataPupOrg",
             "repo": "DataPup",
-            "stars": 309
+            "stars": 309,
+            "topics": [
+              "ai-agent",
+              "clickhouse",
+              "clickhouse-database",
+              "database",
+              "desktop-app",
+              "electron-app",
+              "electronjs",
+              "good-first-contribution",
+              "linux-desktop",
+              "mac-app",
+              "mysql",
+              "mysql-connector",
+              "postgresql",
+              "postgressql",
+              "react",
+              "sql-query",
+              "typescipt",
+              "windows-desktop"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -426,12 +810,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source, Language Agnostic Mutation Testing",
+            "homepage": null,
             "id": 818429323,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-04-17T15:46:03Z",
+            "open_issues": 2,
             "owner": "codeintegrity-ai",
             "repo": "mutahunter",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "artificial-intelligence",
+              "automated-testing",
+              "mutation-testing",
+              "software-testing",
+              "static-code-analysis",
+              "test-automation",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -442,12 +839,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DIY Poor Man's AI Coder",
+            "homepage": null,
             "id": 950353683,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2025-05-16T21:58:14Z",
+            "open_issues": 0,
             "owner": "Strawberry-Computer",
             "repo": "poorcoder",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ai",
+              "aider",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -458,12 +864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explore the Linux kernel source code with AI-generated summaries",
+            "homepage": null,
             "id": 842844593,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-20T22:41:25Z",
+            "open_issues": 1,
             "owner": "mathiscode",
             "repo": "ai-kernel-explorer",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         }
@@ -482,12 +893,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for DragGAN (SIGGRAPH 2023)",
+                "homepage": "https://vcai.mpi-inf.mpg.de/projects/DragGAN/",
                 "id": 642323624,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-18T17:51:40Z",
+                "open_issues": 154,
                 "owner": "XingangPan",
                 "repo": "DragGAN",
-                "stars": 35751
+                "stars": 35752,
+                "topics": [
+                  "artificial-intelligence",
+                  "generative-adversarial-network",
+                  "generative-models",
+                  "image-manipulation"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -505,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Materials for the Hugging Face Diffusion Models Course",
+                "homepage": null,
                 "id": 550752161,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-26T10:32:05Z",
+                "open_issues": 25,
                 "owner": "huggingface",
                 "repo": "diffusion-models-class",
-                "stars": 4356
+                "stars": 4356,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -534,12 +960,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!",
+                "homepage": "http://TTSWebUI.com/",
                 "id": 633546245,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-27T13:23:40Z",
+                "open_issues": 108,
                 "owner": "rsxdalv",
                 "repo": "TTS-WebUI",
-                "stars": 3245
+                "stars": 3245,
+                "topics": [
+                  "ace-step",
+                  "ai",
+                  "audio-generation",
+                  "cosyvoice",
+                  "generative-ai",
+                  "generator",
+                  "gradio",
+                  "music",
+                  "musicgen",
+                  "openai-api",
+                  "openvoice",
+                  "rvc",
+                  "styletts2",
+                  "text-to-speech",
+                  "tortoise-tts",
+                  "tts",
+                  "vocos"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -557,12 +1006,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔊 Text-Prompted Generative Audio Model",
+                "homepage": null,
                 "id": 624994625,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-08-19T07:45:36Z",
+                "open_issues": 268,
                 "owner": "suno-ai",
                 "repo": "bark",
-                "stars": 39255
+                "stars": 39255,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             },
@@ -573,12 +1027,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-voice TTS system trained with an emphasis on quality",
+                "homepage": null,
                 "id": 452939314,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-19T18:59:13Z",
+                "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14870
+                "stars": 14870,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -600,12 +1059,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+            "homepage": "https://petals.dev",
             "id": 502482803,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-07T11:54:28Z",
+            "open_issues": 113,
             "owner": "bigscience-workshop",
             "repo": "petals",
-            "stars": 10526
+            "stars": 10526,
+            "topics": [
+              "bloom",
+              "chatbot",
+              "deep-learning",
+              "distributed-systems",
+              "falcon",
+              "gpt",
+              "guanaco",
+              "language-models",
+              "large-language-models",
+              "llama",
+              "machine-learning",
+              "mixtral",
+              "neural-networks",
+              "nlp",
+              "pipeline-parallelism",
+              "pretrained-models",
+              "pytorch",
+              "tensor-parallelism",
+              "transformer",
+              "volunteer-computing"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -616,12 +1101,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.",
+            "homepage": "https://discord.gg/8nDRphrhSF",
             "id": 834595923,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T12:40:33Z",
+            "open_issues": 65,
             "owner": "av",
             "repo": "harbor",
-            "stars": 3197
+            "stars": 3197,
+            "topics": [
+              "ai",
+              "automation",
+              "bash",
+              "cli",
+              "container",
+              "docker",
+              "docker-compose",
+              "homelab",
+              "llm",
+              "local",
+              "mcp",
+              "npm",
+              "package",
+              "pypi",
+              "safetensors",
+              "self-hosted",
+              "server",
+              "tool",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -632,12 +1142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 580178857,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-20T06:08:26Z",
+            "open_issues": 5,
             "owner": "danielgross",
             "repo": "teleprompter",
-            "stars": 337
+            "stars": 337,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         }
@@ -654,12 +1169,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+            "homepage": "https://www.promptingguide.ai/",
             "id": 579082810,
             "language": "MDX",
+            "license": "MIT",
             "last_commit": "2026-03-11T20:09:13Z",
+            "open_issues": 278,
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77877
+            "stars": 77877,
+            "topics": [
+              "agent",
+              "agents",
+              "ai-agents",
+              "chatgpt",
+              "deep-learning",
+              "generative-ai",
+              "language-model",
+              "llms",
+              "openai",
+              "prompt-engineering",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -670,12 +1202,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples and guides for using the OpenAI API",
+            "homepage": "https://cookbook.openai.com",
             "id": 468576060,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:13:13Z",
+            "open_issues": 294,
             "owner": "openai",
             "repo": "openai-cookbook",
-            "stars": 75594
+            "stars": 75595,
+            "topics": [
+              "chatgpt",
+              "gpt-4",
+              "openai",
+              "openai-api"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         }
@@ -694,12 +1236,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.",
+                "homepage": null,
                 "id": 278289913,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-12-08T22:38:52Z",
+                "open_issues": 12,
                 "owner": "mrdbourke",
                 "repo": "machine-learning-roadmap",
-                "stars": 7894
+                "stars": 7894,
+                "topics": [
+                  "data",
+                  "data-science",
+                  "deep-learning",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -717,12 +1269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All the advance things I have learned about programming ",
+                "homepage": null,
                 "id": 714153982,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-05-10T16:21:25Z",
+                "open_issues": 0,
                 "owner": "dean5368",
                 "repo": "Tecnologies-I-Learn",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             },
@@ -733,12 +1290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (i",
+                "homepage": null,
                 "id": 711728635,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-28T01:15:17Z",
+                "open_issues": 0,
                 "owner": "dean5368",
                 "repo": "coursera-deep-learning-specialization",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:49.388Z"
             }
@@ -760,12 +1322,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of AI-powered coding tools",
+            "homepage": "https://aifordevelopers.org",
             "id": 1009637873,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-25T10:30:08Z",
+            "open_issues": 347,
             "owner": "ai-for-developers",
             "repo": "awesome-ai-coding-tools",
-            "stars": 2040
+            "stars": 2040,
+            "topics": [
+              "ai-code-generation",
+              "ai-code-generator",
+              "ai-coding",
+              "ai-coding-assistant",
+              "ai-coding-tools",
+              "ai-developer",
+              "ai-developer-tools",
+              "ai-development",
+              "ai-development-tools",
+              "ai-devtools",
+              "ai-ide",
+              "ai-security",
+              "ai-tools",
+              "awesome",
+              "awesome-ai",
+              "awesome-list",
+              "cursor",
+              "cursor-ai",
+              "vibe-coding",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -776,12 +1364,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Workflow Automation  Software, Engines and Tools",
+            "homepage": "https://productivity.directory/category/workflow-automation",
             "id": 25362254,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-28T14:45:31Z",
+            "open_issues": 68,
             "owner": "dariubs",
             "repo": "awesome-workflow-automation",
-            "stars": 1181
+            "stars": 1181,
+            "topics": [
+              "activepieces",
+              "agents",
+              "ai-agents",
+              "ai-agents-cli",
+              "ai-agents-framework",
+              "awesome-ai-agents",
+              "make",
+              "n8n",
+              "n8n-nodes",
+              "n8n-workflow",
+              "workflow",
+              "workflow-automation",
+              "workflow-automation-software",
+              "workflow-automation-tools",
+              "workflow-engine",
+              "workflow-engines",
+              "workflow-management",
+              "workflow-reusable",
+              "workflow-tool",
+              "zapier"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -792,12 +1406,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome list of best top AI directories to submit your ai tools",
+            "homepage": "https://topaidirectories.com",
             "id": 698634691,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-15T08:59:29Z",
+            "open_issues": 126,
             "owner": "best-of-ai",
             "repo": "ai-directories",
-            "stars": 868
+            "stars": 868,
+            "topics": [
+              "ai-directories",
+              "ai-directory",
+              "ai-directory-list",
+              "ai-list",
+              "ai-pedia-hub",
+              "ai-scout",
+              "ai-tools-arena",
+              "ai-tools-directory",
+              "ai-tools-list",
+              "ai-tools-marketer",
+              "ai-top-tools",
+              "aidirwiki",
+              "all-things-ai",
+              "altern",
+              "awesome-list",
+              "directories",
+              "futurepedia",
+              "futuretools",
+              "theresanai",
+              "theresanaiforthat"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -808,12 +1448,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hand-picked collection of tools and resources for Vibe Coding",
+            "homepage": "https://vibecoding.rest/",
             "id": 684192747,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-13T09:17:26Z",
+            "open_issues": 83,
             "owner": "awesome-vibe-coding",
             "repo": "awesome-vibe-coding",
-            "stars": 825
+            "stars": 825,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-app-builder",
+              "ai-ide",
+              "ai-tools",
+              "awesome-ai",
+              "awesome-ai-tools",
+              "awesome-list",
+              "awesome-vibe-coding",
+              "vibe",
+              "vibe-coding",
+              "vibecode",
+              "vibecoding",
+              "vibecoding-tool"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -824,12 +1484,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of best ai tools",
+            "homepage": "https://bestofai.io",
             "id": 1037868089,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-27T11:09:47Z",
+            "open_issues": 99,
             "owner": "best-of-ai",
             "repo": "best-of-ai",
-            "stars": 702
+            "stars": 702,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "ai-assistant",
+              "ai-chatbot",
+              "ai-engineering",
+              "ai-tools",
+              "ai-tools-directory",
+              "awesome",
+              "awesome-list",
+              "best-ai-tools",
+              "best-of-ai",
+              "bestofai",
+              "free-ai-tools",
+              "top-ai-tools"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -840,12 +1521,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome marketing tools and resources",
+            "homepage": "https://marketingtoolslist.com",
             "id": 759393175,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-27T07:26:41Z",
+            "open_issues": 121,
             "owner": "marketingtoolslist",
             "repo": "awesome-marketing",
-            "stars": 444
+            "stars": 444,
+            "topics": [
+              "ai-agents",
+              "ai-marketing",
+              "ai-marketing-agent",
+              "ai-marketing-tools",
+              "awesome",
+              "awesome-digital-marketing",
+              "awesome-list",
+              "awesome-marketing",
+              "digital-marketing",
+              "gtm-engineering",
+              "marketing",
+              "marketing-analytics",
+              "marketing-automation",
+              "marketing-tools",
+              "marketing-tools-list",
+              "seo",
+              "seotools",
+              "sge"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -856,12 +1561,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of top AI models and LLMs",
+            "homepage": null,
             "id": 831354841,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-14T12:28:33Z",
+            "open_issues": 2,
             "owner": "alternbits",
             "repo": "awesome-ai-models",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "ai",
+              "ai-model",
+              "ai-models",
+              "altern",
+              "awesome",
+              "awesome-ai",
+              "awesome-list",
+              "large-language-models",
+              "llms",
+              "machine-learning",
+              "ml",
+              "theresanaiforthat",
+              "top-ai-models",
+              "top-ai-tools",
+              "top-llms"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         },
@@ -872,12 +1598,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated List of AI, ML and Deep Learning books",
+            "homepage": null,
             "id": 685474177,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-03T10:45:41Z",
+            "open_issues": 0,
             "owner": "mahseema",
             "repo": "aibooks",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "ai-book",
+              "ai-books",
+              "ai-engineering",
+              "ai-resources",
+              "ai-tools",
+              "ai-tutor",
+              "ai-tutorial",
+              "aibooks",
+              "awesome-ai-books",
+              "ml",
+              "ml-book",
+              "ml-books"
+            ]
           },
           "first_seen": "2026-08-28T04:23:49.388Z"
         }
@@ -886,15 +1633,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:51:02.755Z",
+    "last_updated": "2026-08-29T04:18:06.546Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Artificial Intelligence Top Tools",
+      "homepage": null,
       "id": 683212753,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-12-31T14:46:19Z",
+      "open_issues": 1258,
       "owner": "mahseema",
       "repo": "awesome-ai-tools",
-      "stars": 6073
+      "stars": 6073,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "ai-tools",
+        "ai-tools-list",
+        "ai-top-tools",
+        "awesome",
+        "awesome-ai",
+        "awesome-ai-tools",
+        "awesome-list",
+        "bestofai",
+        "futuretools",
+        "machine-learning",
+        "ml",
+        "mlops",
+        "theresanaiforthat",
+        "top-ai-tools",
+        "vibe-coding",
+        "workflow"
+      ]
     },
     "original_repository_sha": "9d8b9d49fa26114fcc635a80ac1db1e950d3542a",
     "enhanced_repository": "enhansome/enhansome-ai-tools",
