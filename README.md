@@ -36,7 +36,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Models
 
-> *More complete list of AI Models: [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) ⭐ 150 | 🐛 1 | 📅 2024-08-14*
+> *More complete list of AI Models: [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) ⭐ 151 | 🐛 1 | 📅 2024-08-14*
 
 * [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
 * [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
@@ -80,7 +80,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Local search engines
 
-* [privateGPT](https://github.com/imartinez/privateGPT) ⭐ 57,610 | 🐛 11 | 🌐 Python | 📅 2026-10-23 - Ask questions to your documents without an internet connection, using the power of LLMs.
+* [privateGPT](https://github.com/imartinez/privateGPT) ⭐ 57,615 | 🐛 11 | 🌐 Python | 📅 2026-10-23 - Ask questions to your documents without an internet connection, using the power of LLMs.
 * [quivr](https://github.com/StanGirard/quivr) ⭐ 39,602 | 🐛 21 | 🌐 Go | 📅 2026-10-21 - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
 ### Writing assistants
@@ -137,7 +137,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Productivity
 
-* [fabric](https://github.com/danielmiessler/fabric/) ⭐ 44,406 | 🐛 16 | 🌐 Go | 📅 2026-10-23 - Apply AI to everyday challenges in the comfort of your terminal. Help’s to get better results with tried and tested library of prompt pattern’s.
+* [fabric](https://github.com/danielmiessler/fabric/) ⭐ 44,413 | 🐛 16 | 🌐 Go | 📅 2026-10-23 - Apply AI to everyday challenges in the comfort of your terminal. Help’s to get better results with tried and tested library of prompt pattern’s.
 * [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 * [Taskade](https://www.taskade.com/) -  Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 * [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
@@ -225,12 +225,12 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Developer tools
 
 * [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,355 | 🐛 776 | 🌐 C++ | 📅 2025-05-27 - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
-* [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse) ⭐ 36,269 | 🐛 1,120 | 🌐 TypeScript | 📅 2026-10-23
-* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,775 | 🐛 69 | 🌐 Go | 📅 2025-10-03 - Open source, terminal-based AI programming engine for complex tasks.
+* [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse) ⭐ 36,370 | 🐛 1,128 | 🌐 TypeScript | 📅 2026-10-24
+* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,780 | 🐛 69 | 🌐 Go | 📅 2025-10-03 - Open source, terminal-based AI programming engine for complex tasks.
 * [VoltAgent](https://github.com/voltagent/voltagent) ⭐ 10,864 | 🐛 135 | 🌐 TypeScript | 📅 2026-10-15 - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
-* [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta) ⭐ 4,855 | 🐛 335 | 🌐 TypeScript | 📅 2026-10-23
-* [ToolHive](https://github.com/stacklok/toolhive) ⭐ 2,305 | 🐛 396 | 🌐 Go | 📅 2026-10-23 – Find the right MCP server for your task and deploy with one click.
-* [Notte](https://github.com/nottelabs/notte) ⭐ 2,042 | 🐛 8 | 🌐 Python | 📅 2026-10-23 - Notte is the fastest, most reliable Browser Using Agents framework
+* [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta) ⭐ 4,858 | 🐛 339 | 🌐 TypeScript | 📅 2026-10-24
+* [ToolHive](https://github.com/stacklok/toolhive) ⭐ 2,305 | 🐛 400 | 🌐 Go | 📅 2026-10-24 – Find the right MCP server for your task and deploy with one click.
+* [Notte](https://github.com/nottelabs/notte) ⭐ 2,044 | 🐛 6 | 🌐 Python | 📅 2026-10-24 - Notte is the fastest, most reliable Browser Using Agents framework
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,058 | 🐛 14 | 🌐 Python | 📅 2025-11-27 - Open-source CLI security scanner for agentic workflows.
 * [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 * [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
@@ -266,10 +266,10 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Code
 
-* [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 70,996 | 🐛 136 | 🌐 Python | 📅 2026-01-21 - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
-* [PR-Agent](https://github.com/Codium-ai/pr-agent) ⭐ 13,571 | 🐛 23 | 🌐 Python | 📅 2026-10-23 - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
-* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,595 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-23 - An alternative to Supabase for AI Code editors and Vibe Coding tools
-* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,041 | 🐛 15 | 🌐 Go | 📅 2026-10-23 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+* [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 71,005 | 🐛 136 | 🌐 Python | 📅 2026-01-21 - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+* [PR-Agent](https://github.com/Codium-ai/pr-agent) ⭐ 13,589 | 🐛 33 | 🌐 Python | 📅 2026-10-24 - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
+* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,597 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-23 - An alternative to Supabase for AI Code editors and Vibe Coding tools
+* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,041 | 🐛 15 | 🌐 Go | 📅 2026-10-24 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 * [TurboPilot](https://github.com/ravenscroftj/turbopilot) ⚠️ Archived - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 * [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) ⭐ 3,531 | 🐛 10 | 🌐 Python | 📅 2024-03-20 - An open-source implementation of OpenAI's ChatGPT Code interpreter.
 * [Gito](https://github.com/Nayjest/Gito) ⭐ 451 | 🐛 61 | 🌐 Python | 📅 2026-10-01 - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
@@ -301,7 +301,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Models
 
-* [DragGAN](https://github.com/XingangPan/DragGAN) ⭐ 35,718 | 🐛 154 | 🌐 Python | 📅 2024-05-18 - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
+* [DragGAN](https://github.com/XingangPan/DragGAN) ⭐ 35,721 | 🐛 154 | 🌐 Python | 📅 2024-05-18 - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
 * [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
 * [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state-of-the-art text-to-image model that generates images from text. #opensource
 * [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
@@ -372,7 +372,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Stable Diffusion resources
 
-* [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ⭐ 4,384 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-10-14 - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
+* [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ⭐ 4,383 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-10-14 - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 * [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers.
 * [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 
@@ -457,7 +457,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Speech
 
-* [Bark](https://github.com/suno-ai/bark) ⭐ 39,274 | 🐛 269 | 🌐 Jupyter Notebook | 📅 2024-08-19 - A transformer-based text-to-audio model. #opensource
+* [Bark](https://github.com/suno-ai/bark) ⭐ 39,277 | 🐛 269 | 🌐 Jupyter Notebook | 📅 2024-08-19 - A transformer-based text-to-audio model. #opensource
 * [TorToiSe](https://github.com/neonbjb/tortoise-tts) ⭐ 14,889 | 🐛 349 | 🌐 Jupyter Notebook | 📅 2024-11-19 - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 * [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
 * [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
@@ -478,8 +478,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
-* [Petals](https://github.com/bigscience-workshop/petals) ⭐ 10,659 | 🐛 114 | 🌐 Python | 📅 2024-09-07 - BitTorrent style platform for running AI models in a distributed way.
-* [Harbor](https://github.com/av/harbor) ⭐ 3,250 | 🐛 52 | 🌐 Python | 📅 2026-10-20 - run LLM backends, APIs, frontends, and services with one command
+* [Petals](https://github.com/bigscience-workshop/petals) ⭐ 10,662 | 🐛 114 | 🌐 Python | 📅 2024-09-07 - BitTorrent style platform for running AI models in a distributed way.
+* [Harbor](https://github.com/av/harbor) ⭐ 3,253 | 🐛 52 | 🌐 Python | 📅 2026-10-24 - run LLM backends, APIs, frontends, and services with one command
 * [Teleprompter](https://github.com/danielgross/teleprompter) ⭐ 337 | 🐛 5 | 🌐 Python | 📅 2022-12-20 - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 * [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want.
 * [Diagram](https://diagram.com/) - Magical new ways to design products.
@@ -532,8 +532,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Learning resources
 
-* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 79,465 | 🐛 289 | 🌐 MDX | 📅 2026-03-11 - Guide and resources for prompt engineering.
-* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 76,780 | 🐛 339 | 🌐 Jupyter Notebook | 📅 2026-10-23 - Examples and guides for using the OpenAI API.
+* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 79,496 | 🐛 289 | 🌐 MDX | 📅 2026-03-11 - Guide and resources for prompt engineering.
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 76,797 | 🐛 339 | 🌐 Jupyter Notebook | 📅 2026-10-23 - Examples and guides for using the OpenAI API.
 * [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
 * [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 * [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
@@ -542,7 +542,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Machine Learning
 
-* [Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) ⭐ 7,895 | 🐛 12 | 📅 2022-12-08 - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
+* [Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) ⭐ 7,896 | 🐛 12 | 📅 2022-12-08 - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
 * [Andrew Ng’s Machine Learning at Stanford University](https://www.coursera.org/learn/machine-learning) -  Ng’s gentle introduction to machine learning course is perfect for engineers who want a foundational overview of key concepts in the field.
 * [Sebastian Thrun’s Introduction To Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - robust introduction to the subject and also the foundation for a Data Analyst “nanodegree” certification sponsored by Facebook and MongoDB.
 * [AI and Machine Learning Roadmaps](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/) - Roadmaps featuring essential concepts, learning methods, and the tools to put them into practice.
@@ -561,14 +561,14 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Related Awesome Lists
 
-* [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) ⭐ 2,187 | 🐛 447 | 📅 2026-09-18 - Curated list of AI-powered developer tools.
-* [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) ⭐ 1,250 | 🐛 87 | 📅 2026-04-28 - Curated List of Workflow Automation Apps And Tools
-* [Top AI Directories](https://github.com/best-of-ai/ai-directories) ⭐ 894 | 🐛 146 | 📅 2026-10-12 - An awesome list of best top AI directories to submit your ai tools
+* [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) ⭐ 2,189 | 🐛 455 | 📅 2026-09-18 - Curated list of AI-powered developer tools.
+* [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) ⭐ 1,250 | 🐛 88 | 📅 2026-04-28 - Curated List of Workflow Automation Apps And Tools
+* [Top AI Directories](https://github.com/best-of-ai/ai-directories) ⭐ 896 | 🐛 150 | 📅 2026-10-12 - An awesome list of best top AI directories to submit your ai tools
 * [Awesome Vibe Coding](http://github.com/dariubs/awesome-vibe-coding) ⭐ 878 | 🐛 143 | 🌐 HTML | 📅 2026-08-13 - A hand-picked collection of tools and resources for Vibe Coding.
-* [Best of AI](https://github.com/best-of-ai/best-of-ai) ⭐ 745 | 🐛 144 | 🌐 HTML | 📅 2026-10-23 - Like Michelin Guide for AI
-* [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) ⭐ 490 | 🐛 182 | 📅 2026-07-27
-* [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) ⭐ 150 | 🐛 1 | 📅 2024-08-14 - A curated list of top AI models and LLMs
-* [Awesome AI Books](https://github.com/mahseema/aibooks) ⭐ 92 | 🐛 0 | 📅 2025-08-03 - Curated List of Top AI and ML Books
+* [Best of AI](https://github.com/best-of-ai/best-of-ai) ⭐ 745 | 🐛 143 | 🌐 HTML | 📅 2026-10-23 - Like Michelin Guide for AI
+* [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) ⭐ 490 | 🐛 184 | 📅 2026-07-27
+* [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) ⭐ 151 | 🐛 1 | 📅 2024-08-14 - A curated list of top AI models and LLMs
+* [Awesome AI Books](https://github.com/mahseema/aibooks) ⭐ 93 | 🐛 0 | 📅 2025-08-03 - Curated List of Top AI and ML Books
 * [Altern](https://altern.ai) - Find Best AI Tools
 * [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
 * [There's An AI](https://theresanai.com) - Frontpage of AI
@@ -579,4 +579,4 @@ created by [Mahsima Dastan](https://github.com/mahseema)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
